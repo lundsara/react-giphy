@@ -1,26 +1,28 @@
 ![giphy-fun](https://media.giphy.com/media/26xBKJclSF8d57UWs/giphy.gif)
 
-### :sunny: Cheer App!
+### :sunny: Cheer App! Part deux!
 
-Let's build a react giphy app!
+##### We've built a cool giphy app, now lets make it better!
 
-First things first: **Find a buddy!**
+**BUT, First things first:**
+
+#### Retype the quotes app from the lecture notes in the quotes-forms-start app to gain some muscle memory.
+
 
 #### Your task is:
-* Go to the Giphy docs [HERE](https://developers.giphy.com/docs/), _read_ them,  create an account abd get your Free API key.
 
-* Diagram your App:
-  * What components will you have?
-  * Where would state "live"?
-  * Where do you need to pass props?
-  * In which lifecycle  method do you need to make your API call?
+* You're going to add a form to search for gifs. 
+    Your form should include 2 input fields:
+    * Type of the gif to search for 
+    * How many gifs you woould like to see 
 
 
 #### 🚀 Completion looks like:
 
 * You have a colorful diagram of your components.
-* You have an application that renders a button on page load.
-* When a user clicks the button, a random Gif appears on the screen.
+* You have an application that renders a from on page load.
+* When a user enters the data in the search field and clicks the submit button, a list of Gifs appear on the screen. 
+* Make it look pretty
 
 
-#### Done? You are awesome! Here is your :cookie:
+#### Done? You are awesome! Here are two  :cookie: :cookie:
