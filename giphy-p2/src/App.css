@@ -1,0 +1,82 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: cornflowerblue;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  font-family: 'Cutive Mono', monospace;
+  box-shadow: 0 0 15px rgba(21,30,53,.15);
+  background-position: right top;
+  }
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+img {
+ height: 100%;
+ width: 100%;
+ text-align: center;
+ margin: 0 auto;
+ margin-top: 20px;
+}
+
+#single {
+  text-align: center;
+  margin: 0 auto;
+  height: 200px;
+  width: 200px;
+}
+
+button{
+  text-align: center;
+  margin: 0 auto;
+  font-family: 'Cutive Mono', monospace;
+  text-decoration: none;
+  letter-spacing: 1px;
+  font-weight: bold;
+  background-color: cornflowerblue;
+  color: black;
+  font-size: 20px;
+  padding: 12px;
+  box-shadow: inset 0 -6px 0 rgba(0,0,0,.2);
+  border-radius: 5px;
+  text-decoration: none;
+  width: 250px;
+  height: 60px;
+  text-shadow: none;
+  border-color: white;
+  margin-top: 40px;
+
+ }
+
+ input {
+  font-family: 'Cutive Mono', monospace;
+  width: 450px;
+  height: 50px;
+  background-color: white;
+  border-radius: 0px;
+  text-align: left;
+  margin-top: 60px;
+  font-size: 20px;
+  border: solid #ffff99 10px;
+ }
+
+ button:hover {
+    background-color: #ffff99;
+    transition: all ease-in-out .3s;
+
+}
