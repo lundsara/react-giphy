@@ -7,4 +7,4 @@ Choose the number of images from 1-25 and search a random key word!
 * Javascript
 * CSS3
 
-![screenshot](hhttps://i.imgur.com/kTir0FH.png)
+![screenshot](https://i.imgur.com/kTir0FH.png)
