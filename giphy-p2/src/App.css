@@ -155,7 +155,7 @@ button{
   text-align:left;
   margin: 0 auto;
   margin-top: 40px;
-  font-size: 10px;
+  font-size: 12px;
   border: solid rgb(9, 250, 144) 5px;
  }
 
@@ -170,7 +170,6 @@ button{
     text-align: center;
     margin: 0 auto;
     margin-bottom: 10px;
-    margin-left: 18%;
 
   }
   #subtitle{
