@@ -9,4 +9,4 @@ Choose the number of images from 1-25 and search a random key word!
 
 play around with it [here](https://www.boiling-arithmetic.surge.sh)
 
-![screenshot](https://i.imgur.com/kTir0FH.png)
+![screenshot](https://i.imgur.com/glJ728e.png)
