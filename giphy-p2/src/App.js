@@ -48,8 +48,8 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-         <h1> Welcome to Pick Your Own Giphy</h1>
-         <h2>(the best giphy) </h2>
+         <div id="title"> Welcome to Pick Your Own Giphy</div>
+         <div id="subtitle">(the best giphy) </div>
          </div>
           <AddGifForm
           handleGifSubmit={this.handleGifSubmit}
